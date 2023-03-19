@@ -30,3 +30,7 @@ for service in client.unread_services:
     name, direct, indirect = service
     count += direct + indirect
 ```
+
+## Credits
+
+I only packaged it, all credits go to [kris7t](https://github.com/kris7t).
